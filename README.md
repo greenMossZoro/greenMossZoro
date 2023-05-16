@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-I am a network technician who loves to program. My main language of choice is Python but I am proficient in other languages as well.
+I am a MIS technician who loves to program. My main language of choice is Python but I am proficient in other languages as well.
 
 * 🌍  I'm based in Atlanta, GA
 * 🧠  I'm learning C
